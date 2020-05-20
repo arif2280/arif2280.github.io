@@ -1,0 +1,62 @@
+.main-container {
+    position: absolute;
+    width: 560px;
+    height: 213px;
+    left: 291px;
+    top: 200px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 35px;
+}
+
+.top-navbar {
+    position: absolute;
+    width: 100vw;
+    height: 65px;
+    left: 0px;
+    top: 0px;
+    background: #FAE9E9;
+}
+
+.nav-bar-items {
+    position: relative;
+    width: 402px;
+    height: 29px;
+    left: 850px;
+    top: 15px;
+    font-size: 24px; 
+    display: inline-block; 
+    padding-left: 10%;
+    margin-right:0;
+}
+
+.nav-bar-items a{
+    margin:0;
+    text-decoration: none;
+    color: black;
+}
+
+.item{
+    padding: 1vw;
+}
+
+.profile-pic{
+    position: absolute;
+    width: 196px;
+    height: 261px;
+    left: 650px;
+    top: 30px;
+    }
+
+.logo-img{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 22px;
+    top: 10px;
+}
+
+
